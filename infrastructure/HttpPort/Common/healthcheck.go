@@ -3,7 +3,7 @@ package commonhttp
 import (
 	"net/http"
 
-	web "github.com/AlejandroWaiz/hexagonal-arch/infrastructure/webResponse"
+	web "github.com/AlejandroWaiz/hexagonal-arch/infrastructure/HttpPort/webResponse"
 )
 
 func HealthCheck(w http.ResponseWriter, r *http.Request) {
