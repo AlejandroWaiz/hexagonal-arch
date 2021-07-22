@@ -1,0 +1,26 @@
+Sale of empanadas
+
+-Look for all the empanadas
+-Add to the "cart" what we are going to buy
+-Pay for all the chosen empanadas
+-See what you paid for
+
+
+
+/Home
+Show all the empanadas available and add it to the cart those that you want to buy.
+
+/Cart
+Here you can see all the empanadas that are in the cart
+
+/Pay 
+Payment page for all empanadas on the cart
+
+        -/SuccessPay
+	Success pay of empanadas's cart
+
+	-/FailedPay
+	 Failed pay of empanadas's cart
+
+
+
