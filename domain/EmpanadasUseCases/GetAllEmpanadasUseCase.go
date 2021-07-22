@@ -2,7 +2,7 @@ package domain
 
 import "fmt"
 
-func (d *Domain) GetAllEmpanadasUseCase() {
+func GetAllEmpanadasUseCase() {
 
 	fmt.Println("Here are your empanadas ")
 

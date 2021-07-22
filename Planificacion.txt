@@ -7,16 +7,18 @@ Sale of empanadas
 
 
 
+
+
 /Home
 Show all the empanadas available and add it to the cart those that you want to buy.
 
 /Cart
-Here you can see all the empanadas that are in the cart
+Here you can see all the empanadas on your cart
 
 /Pay 
 Payment page for all empanadas on the cart
 
-        -/SuccessPay
+    -/SuccessPay
 	Success pay of empanadas's cart
 
 	-/FailedPay

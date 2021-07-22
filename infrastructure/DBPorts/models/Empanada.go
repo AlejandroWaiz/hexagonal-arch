@@ -1,4 +1,4 @@
-package models
+package modelsdb
 
 //Basic struct of an empanada to work on the repository
 type Empanada struct {

@@ -1,4 +1,4 @@
-package models
+package modelsdb
 
 //Should be more, but this is for now
 type Ingredients struct {
